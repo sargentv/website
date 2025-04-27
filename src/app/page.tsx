@@ -16,7 +16,7 @@ export default function Home() {
         <div className="mb-6 overflow-hidden rounded-full border-4 border-accent/20 w-40 h-40">
           <Image
             src="https://ext.same-assets.com/2415124296/2864693372.jpeg"
-            alt="Alex Johnson Profile"
+            alt="Vinit Nirwane Profile"
             width={160}
             height={160}
             priority
