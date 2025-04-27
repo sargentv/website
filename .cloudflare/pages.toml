@@ -1,0 +1,4 @@
+# Configuration for Cloudflare Pages
+[build]
+command = "bun run build"
+publish = "out"

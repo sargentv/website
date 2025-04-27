@@ -1,0 +1,6 @@
+# Wrangler configuration for Cloudflare Pages deployment
+name = "alex-johnson-portfolio"
+compatibility_date = "2024-04-15"
+
+[site]
+bucket = "./out"
