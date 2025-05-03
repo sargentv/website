@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Alex Johnson - Cybersecurity Professional",
+  title: "Vinit Nirwane - Cybersecurity Professional",
   description: "Personal portfolio website for a cybersecurity professional",
 };
 
