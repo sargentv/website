@@ -1,4 +1,4 @@
-# Alex Johnson Portfolio
+# Vinit Nirwane Portfolio
 
 A professional portfolio website for a cybersecurity specialist. This site is built with Next.js and optimized for static deployment on Cloudflare Pages.
 

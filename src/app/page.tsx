@@ -23,7 +23,7 @@ export default function Home() {
             className="object-cover w-full h-full"
           />
         </div>
-        <h1>Alex Johnson</h1>
+        <h1>Vinit Nirwane</h1>
         <h2>Cybersecurity Professional</h2>
         <ul className="flex gap-4">
           {socialLinks.map((link) => (

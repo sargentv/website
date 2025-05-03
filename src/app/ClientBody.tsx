@@ -53,7 +53,7 @@ export default function ClientBody({
           <div className="container">
             <div className="flex justify-between items-center">
               <Link href="/" className="navigation-title">
-                Alex Johnson
+                Vinit Nirwane
               </Link>
 
               <button
@@ -112,7 +112,7 @@ export default function ClientBody({
         <footer className="footer">
           <div className="container">
             <div className="text-center text-muted-foreground text-sm">
-              © 2025 Alex Johnson ·
+              © 2025 Vinit Nirwane ·
               <span className="ml-1">Cybersecurity Professional</span>
             </div>
           </div>
